@@ -1,8 +1,33 @@
-# React + Vite
+# Go Ride
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive bike-focused website built with React and Vite. The project focuses on component-based UI development, responsive layouts, and a clean product-oriented presentation.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Vite
+- Tailwind CSS
+- DaisyUI
+- JavaScript
+- ESLint
+
+## Highlights
+
+- Responsive bike-focused interface
+- Reusable React components
+- Tailwind CSS and DaisyUI styling
+- Vite development workflow
+- Product-focused layout
+
+## Getting Started
+
+```bash
+git clone https://github.com/mdjihad-dev/Vite-react-website.git
+cd Vite-react-website
+npm install
+npm run dev
+```
+
+## Project Focus
+
+Built to practice React fundamentals, reusable components, responsive UI implementation, and modern frontend tooling.
